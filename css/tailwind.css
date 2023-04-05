@@ -1627,7 +1627,7 @@ html {
     background-color: rgb(74 108 247/var(--tw-bg-opacity));
     --tw-bg-opacity: 1;
     --tw-text-opacity: 1;
-    color: rgb(255 255 255/var(--tw-text-opacity))
+    color: #94CE70;
 }
 
 .grid-sizer {
@@ -1662,7 +1662,7 @@ html {
 
 .hover\:a16:hover {
     --tw-bg-opacity: 1;
-    background-color: rgb(74 108 247/var(--tw-bg-opacity))
+    background-color: #94CE70;
 }
 
 .hover\:a19:hover {
@@ -1675,7 +1675,7 @@ html {
 
 .hover\:aH:hover {
     --tw-text-opacity: 1;
-    color: rgb(74 108 247/var(--tw-text-opacity))
+    color: #94CE70;
 }
 
 .focus\:a28:focus {
@@ -1690,7 +1690,7 @@ html {
 
 .aJ:hover .group-hover\:a16 {
     --tw-bg-opacity: 1;
-    background-color: rgb(74 108 247/var(--tw-bg-opacity))
+    background-color: #94CE70;
 }
 
 .aJ:hover .group-hover\:a3r {
