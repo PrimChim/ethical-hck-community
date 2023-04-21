@@ -2344,7 +2344,7 @@ html {
     }
 
     .lg\:a1u\[130px\] {
-        padding-top: 130px
+        padding-top: 0;
     }
 
     .lg\:a1u\[170px\] {
@@ -2611,4 +2611,14 @@ html {
 
 .team-first {
     display: flex;
+}
+
+.bg-image {
+    margin-top: -476px;
+    height: auto;
+    width: auto;
+}
+
+footer {
+    margin-top: -24px;
 }
