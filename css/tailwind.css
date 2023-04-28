@@ -2622,3 +2622,16 @@ html {
 footer {
     margin-top: -24px;
 }
+
+.new-social-posts {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.posts {
+    width: 1000px;
+    display: flex;
+    justify-content: space-evenly;
+}
