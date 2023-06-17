@@ -2596,11 +2596,6 @@ html {
     }
 }
 
-@media(min-width:500px) {
-    .xs\:ae\[370px\] {
-        max-width: 370px
-    }
-}
 
 .ethical-hov:hover {
     color: #94CE70;
@@ -2635,4 +2630,18 @@ footer {
     width: 1000px;
     display: flex;
     justify-content: space-evenly;
+}
+
+@media (max-width:500px) {
+    .posts {
+        width: fit-content;
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media(min-width:500px) {
+    .xs\:ae\[370px\] {
+        max-width: 370px
+    }
 }
