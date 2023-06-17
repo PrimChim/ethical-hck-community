@@ -2640,6 +2640,23 @@ footer {
     }
 }
 
+@media (max-width:750px) {
+
+    .main-section {
+        height: 782px;
+    }
+
+    .about-image-section {
+        height: 200px;
+    }
+
+    .posts {
+        width: fit-content;
+        display: flex;
+        flex-direction: column;
+    }
+}
+
 @media(min-width:500px) {
     .xs\:ae\[370px\] {
         max-width: 370px
